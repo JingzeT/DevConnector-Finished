@@ -1,6 +1,9 @@
 {
   "name": "devconnector",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.1"
+  },
   "description": "social network for users",
   "main": "srever.js",
   "scripts": {
